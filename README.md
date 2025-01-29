@@ -2,29 +2,29 @@
 In the Digital Health Card project, multiple organizations can digitally store, update, and view records of their branch's doctors and patients.
 
 Data Flow Diagram:
-![image](https://github.com/user-attachments/assets/ce6bbf81-3fef-403a-9f0d-a5c404013045)
+![Screenshot 2025-01-29 195228](https://github.com/user-attachments/assets/a69da806-439f-4da0-9957-6e306a51a338)
 
 ER-Diagram:
-![image](https://github.com/user-attachments/assets/bc67e7ab-8369-4939-855b-76af4d36d9f4)
+![Screenshot 2025-01-29 194937](https://github.com/user-attachments/assets/a1904ad6-e6a2-47c3-b583-3a664d902fd6)
 
 Use Case Diagram:
-![image](https://github.com/user-attachments/assets/0e359174-dbb7-4b17-9060-c50c29fca162)
+![Screenshot 2025-01-29 195038](https://github.com/user-attachments/assets/6d053030-a7b8-4362-85d9-c368538779ef)
 
 Output Screens:
-![image](https://github.com/user-attachments/assets/46f9ab94-d6e9-41c0-be46-1021f6fe53b9)
+![Screenshot 2025-01-29 195350](https://github.com/user-attachments/assets/83c87651-98ac-4823-8fc6-65c3823ca67d)
 
-![image](https://github.com/user-attachments/assets/808d5a7c-94aa-45e9-b393-cfd45f560bbb)
+![Screenshot 2025-01-29 195418](https://github.com/user-attachments/assets/163ef8e7-2a7f-4c55-b3ae-e730367c53e2)
 
-![image](https://github.com/user-attachments/assets/5450120f-e0cd-452b-9c3d-8202feab7d03)
+![Screenshot 2025-01-29 195442](https://github.com/user-attachments/assets/19ae57ee-606d-4c5a-a9b1-369863114e9e)
 
-![image](https://github.com/user-attachments/assets/b6744cd7-7168-4303-aba7-3d68c8f3c810)
+![Screenshot 2025-01-29 195513](https://github.com/user-attachments/assets/d8f7e0b0-7810-40f3-af85-b56e13f37d20)
 
-![image](https://github.com/user-attachments/assets/7f011813-9e65-4e31-9cab-c885c7982f49)
+![Screenshot 2025-01-29 195601](https://github.com/user-attachments/assets/9e2735ee-e2b9-4559-86d8-8a04623fa2bd)
 
-![image](https://github.com/user-attachments/assets/cbbafb99-3606-4029-b256-405cbb4636a6)
+![Screenshot 2025-01-29 195716](https://github.com/user-attachments/assets/e602859a-957a-4510-a0a0-0a3259155942)
 
-![image](https://github.com/user-attachments/assets/5c747e12-67c9-4e27-8865-7157859dd291)
+![Screenshot 2025-01-29 195810](https://github.com/user-attachments/assets/6ad3ea1d-b51a-4ef5-944f-d048d16b4aa0)
 
-![image](https://github.com/user-attachments/assets/10edd9b0-71ef-4a18-bb30-05349fd0b6a6)
+![Screenshot 2025-01-29 195840](https://github.com/user-attachments/assets/08d63aea-e942-4f54-9d9c-622eac4b99b5)
 
-![image](https://github.com/user-attachments/assets/f1bb47e0-2d83-4c26-9ee7-931617c0542c)
+![Screenshot 2025-01-29 195904](https://github.com/user-attachments/assets/cc266157-23f4-4a7b-87ae-094a3cc40d6b)
